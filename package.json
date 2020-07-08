@@ -1,8 +1,10 @@
 {
   "name": "paymints-react-plaid-link",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "A React component for Plaid Link",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "files": [
     "dist",
     "src",
