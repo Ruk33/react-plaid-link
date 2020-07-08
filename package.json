@@ -3,7 +3,7 @@
   "version": "2.2.6",
   "description": "A React component for Plaid Link",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/Ruk33/"
   },
   "files": [
     "dist",
