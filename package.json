@@ -1,7 +1,8 @@
 {
-  "name": "react-plaid-link",
+  "name": "paymints-react-plaid-link",
   "version": "2.2.5",
   "description": "A React component for Plaid Link",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "files": [
     "dist",
     "src",
@@ -14,7 +15,7 @@
   "browser": "dist/index.umd.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/plaid/react-plaid-link.git"
+    "url": "https://github.com/Ruk33/react-plaid-link.git"
   },
   "types": "dist/index.d.ts",
   "keywords": [
