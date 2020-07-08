@@ -1,6 +1,6 @@
 {
   "name": "paymints-react-plaid-link",
-  "version": "2.2.7",
+  "version": "2.2.8",
   "description": "A React component for Plaid Link",
   "files": [
     "dist",
